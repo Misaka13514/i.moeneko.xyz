@@ -54,6 +54,11 @@
     box-shadow: 0 0 0.15em 0.15em rgba(0, 0, 0, 0.15);
     display: block;
     overflow: hidden;
+    transition:transform 1s cubic-bezier(0.75, 0.00, 0.25, 0.00)
+}
+
+.picture:hover {
+    transform:rotateZ(540deg);
 }
 
 .section.header .picture img {
