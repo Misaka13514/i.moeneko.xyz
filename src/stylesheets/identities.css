@@ -15,7 +15,8 @@ figure.identities figcaption {
 
 figure.identities figcaption i {
     font-size: 1.21em;
-    margin-right: 0.5ch; /* margin from mystery space after identity brand icons */
+    margin-right: 0.5ch;
+    /* margin from mystery space after identity brand icons */
     text-align: center;
     width: 1.5em;
 }

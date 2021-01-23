@@ -52,13 +52,13 @@ html {
 }
 
 #container,
-#container > *:first-child {
+#container>*:first-child {
     border-top-left-radius: 2em;
 }
 
 #container,
-#container > *:last-child,
-#container > *:last-child > *:last-child {
+#container>*:last-child,
+#container>*:last-child>*:last-child {
     border-bottom-right-radius: 2em;
 }
 
@@ -82,13 +82,13 @@ html {
     }
 
     #container,
-    #container > *:first-child {
+    #container>*:first-child {
         border-top-left-radius: 0;
     }
 
     #container,
-    #container > *:last-child,
-    #container > *:last-child > *:last-child {
+    #container>*:last-child,
+    #container>*:last-child>*:last-child {
         border-bottom-right-radius: 0;
     }
 
