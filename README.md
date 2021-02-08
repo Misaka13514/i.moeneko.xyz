@@ -1,81 +1,98 @@
-# ~/amphineko
+# Misaka13514's about page
 
-This repository is the repository of my homepage (https://futa.moe/amphineko/) that can be used as a template.
-
-Visit https://amphineko.github.io/amphineko/ for a live deployment of the `master` branch.
-
-Text contents are mainly located in `index.html`. Simply edit this file to replace the texts and the picture.
-
-For further modifications, including color settings, background images, and layouts, check `index.css` and `stylesheets/*.css`. Don't forget to run an `npm run build` to rebuild files and reflect your modification.
+Misaka13514's about page locate at [atri.tk/about/](https://atri.tk/about/)!
 
 ---
 
-这里是 https://futa.moe/amphineko/ 的代码库，也可以用来作为制作页面的模版。
+## Site of Misaka13514
 
-访问 https://amphineko.github.io/amphineko/ 可以查看 `master` 分支的最新部署。
+- [home page](https://atri.tk/)
+- [about page](https://atri.tk/about/)
+- [blog](https://blog.atri.tk/)
+- [friend links](https://blog.atri.tk/links/)
+- [sitemap](https://atri.tk/sitemap.xml) including more web pages and services.
+- ~~[robots.txt](https://atri.tk/robots.txt) including something useless and disallowed.~~
 
-大部分的文本内容储存在 `index.html` 中，修改这个文件即可更改页面的主图片和文本。
+### Get in touch
 
-若要进行更进一步的修改（如配色方案、背景图片与页面布局），请编辑 `index.css` 与 `stylesheets/*.css`。完事了别忘记 `npm run build` 一下来重新编译使更改生效。
+Enough information is available on my website and will not be repeated here.
 
-## warning
+### Open source codes
 
-This repository contains copyright content, including the profile picture `amphineko.png`, `badcable.png`, etc. These assets are specially licensed to the repository owner only.
+You can see most of them in [Repositories of Misaka13514](https://github.com/Misaka13514?tab=repositories).
 
-You should replace these assets with your images, all of them, before deploying to your websites.
+### Exchange your friend link
 
----
+Follow this [README.md](https://github.com/Misaka13514/Friends/blob/master/README.md).
 
-请注意，本库中包含版权内容，包括 `amphineko.png`、`badcable.png` 等。这些图片都是特别而仅授权给本代码库拥有者使用的。
+## Dependencies and acknowledgements
 
-你应该在部署到你的网站或分发之前，将这些所有的版权图片替换为你自己的图片。
+The formations of this project and its sub-projects are inseparable from:
 
-## help wanted!
+- You and other visitors.
 
-This project was created with little knowledge of Web development. Misuses of HTML tags, CSS rules, and incorrect document writing are just everywhere. Please don't hesitate to send pull requests when you find any incorrectness or improvements.
+  Knowledgeable, kawaii, friendly visitors.
 
-You may also see [issues](https://github.com/amphineko/amphineko/issues) to find ongoing problems.
+- Friends in [the friend link page](https://blog.atri.tk/links/).
 
----
+  Exchanged link with me and bear watching.
 
-我在开发时并没有拥有很多 Web 开发的知识。现在这里的 HTML 标签、CSS 规则的错误使用和不正确的文件编写到处都是。请帮助我修复这些问题，也欢迎提出新的改进。
+- [Github](https://github.com/about) [@github](https://github.com/github)
 
-同时你可以在 [issues](https://github.com/amphineko/amphineko/issues) 里找到现在正在处理的问题。
+  A supportive, welcoming place for users and GitHubbers alike.
 
-## build
+- [Github Pages](https://pages.github.com)
 
-To build this project, run these following commands.
+  A static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub
 
-```
-npm install .
-npm run build
-```
+- [Github Actions](https://github.com/features/actions)
 
-You may check your `NODE_ENV` before executing `npm install .` to ensure `devDependencies` are installed.
+  GitHub Actions makes it easy to automate all your software workflows.
 
----
+- and other GitHub services.
 
-运行下面的指令即可完成编译这个仓库。
+- [Hexo](https://hexo.io) [@hexojs](https://github.com/hexojs)
 
-```
-npm install .
-npm run build
-```
+  A fast, simple & powerful blog framework, powered by Node.js.
 
-运行 `npm install .` 前，你也许应该检查一下 `NODE_ENV` 来确保 `devDependencies` 被正确安装。
+- [NexT](https://theme-next.js.org) [@theme-next](https://github.com/theme-next)
 
-## known "issue"
+  A high quality elegant and powerful theme for Hexo.
 
-The chemical symbol in the name may flash on page load, especially on Chrome.  
-This is a bug specific to Chrome (and Blink browsers). However, this won't be fixed, because it's caused by Chrome and left not fixed for years.  
-Check out this issue for a solution if this bothers you. (Thanks to @Nyaasu66)
+- [Gravatar](https://en.gravatar.com)
 
-https://github.com/amphineko/amphineko/issues/15
+  A service for providing globally unique avatars.
 
----
+- [Disqus](https://disqus.com)
 
-使用 Chrome 时，页面上部名字中的化学符号可能会闪烁。  
-这是一个 Chrome (和使用了 Blink 的浏览器) 特有的 Bug。因为这是由 Chrome 产生并且多年没有修复的问题，所以在这里也不会修复。  
-如果这给你产生了困扰，以下 issue 提供了一个解决方法。(感谢 @Nyaasu66)
+  A blog comment hosting service for web sites and online communities.
 
-https://github.com/amphineko/amphineko/issues/15
+- [Present](https://github.com/KawaiiZapic/Present) [@KawaiiZapic](https://github.com/KawaiiZapic)
+
+  A simple personal home page template with support for displaying blog posts.
+
+- [Atomicneko](https://github.com/amphineko/atomicneko) [@amphineko](https://github.com/amphineko)
+
+  A popular simple homepage (or template).
+
+- All the dependencies including packages and programming languages.
+
+- [Cloudflare CDN](https://www.cloudflare.com/cdn)
+
+  A fast, agile, and secure global network.
+
+- [Cloudflare DNS](https://www.cloudflare.com/dns)
+
+  Fast, Secure, and Resilient DNS.
+
+- and other cloudflare services.
+
+- Transmission medium
+
+- Network protocols
+
+- World Wide Web
+
+- Browsers
+
+- And more!
