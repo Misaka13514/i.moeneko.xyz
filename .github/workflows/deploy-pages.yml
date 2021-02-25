@@ -23,7 +23,7 @@ jobs:
         npm install .
         npm run build
 
-    - name: Configuration environment
+    - name: Configure environment
       env:
         ACTION_DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
       run: |
