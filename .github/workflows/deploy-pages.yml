@@ -19,6 +19,7 @@ jobs:
 
       - name: Invoke Webpack build
         run: |
+          yarn install
           yarn build
 
       - name: Deploy to GitHub Pages
