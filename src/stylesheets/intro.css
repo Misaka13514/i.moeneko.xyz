@@ -31,16 +31,6 @@
   padding: 0.5em 0.5em;
 }
 
-.intro ul {
-  border-left: 0.25em solid #006080;
-  color: #555;
-  font-size: 1.2em;
-  font-weight: 300;
-  line-height: 1.75em;
-  margin: 1em 0;
-  overflow: auto;
-}
-
 .intro .label-group {
   box-shadow: inset 0.25em 0 0.25em -0.25em #4600806b;
   margin-top: 2em;
